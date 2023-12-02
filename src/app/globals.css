@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+	@apply w-1/2 rounded-lg font-bold py-3
+}
